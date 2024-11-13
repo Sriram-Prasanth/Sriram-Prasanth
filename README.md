@@ -13,6 +13,7 @@ I'm a passionate developer with a keen interest in creating efficient and dynami
 - **Frontend Frameworks & Libraries:**
   - React
   - Next.js
+  - Vue
 
 - **State Management:**
   - Redux
